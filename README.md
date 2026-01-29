@@ -1,2 +1,2 @@
-# MovieLens-Knowledge-Graph
-MovieLens 데이터 Knowledge Graph 구축 실습
+# MovieLens-Knowledge-Graph-Agent
+MovieLens 데이터 Knowledge Graph 만들어 Agent 구축
